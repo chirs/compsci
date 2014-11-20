@@ -1,0 +1,22 @@
+Provided a valid test file.
+Just run "clisp hw.lisp"
+
+1.
+
+2. 
+Invariant: x + y = n
+O(peanoplus) = O(n)
+
+3.
+O(peanotimes) = O(n^2)
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+The values and the binomial coefficients are the same.

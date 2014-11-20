@@ -1,0 +1,15 @@
+Chris Edgemon
+cse357
+
+Changed edge-cost to edgecost to avoid stomping on the other edge-cost function.
+
+
+A* search
+
+
+       dist	 halfass      zip     randombs   randomlies
+AM  (55, 452)	(56, 452)  (56, 452)  (56, 452)  (62, 492)
+LH  (37, 482)	(38, 482)  (35, 482)  (43, 482)	 (27, 539)
+DC  (32, 467)	(32, 467)  (30, 467)  (41, 467)	 (58, 1247)
+
+(x,y) -> {x = nodes checked, y = distance}

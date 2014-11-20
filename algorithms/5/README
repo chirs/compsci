@@ -1,0 +1,4 @@
+Chris Edgemon
+cse357
+
+7. The Big O of this function is also n * log n.  However, it also creates n * log n garbage.

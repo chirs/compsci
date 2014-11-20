@@ -1,0 +1,9 @@
+2. I was only able to run the taylor series 13 deep because of a floating point underflow error.  
+Presumably Lisp can't do floating point numbers that small.
+
+4. This is O(n), array access is O(1).  So this is way, way worse.
+
+5. It looks like the normal curve.
+
+Several functions were renamed (e.g. elt -> elt2) because they conflicted with lisp
+library functions.
